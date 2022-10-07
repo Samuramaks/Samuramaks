@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/WTjXuYA2y4o3UZly3W/giphy.gif" width="100"/>
 </div>
 <div id="badges">
-  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=blue"/>
+  <img src="https://img.shields.io/badge/Telegram-https%3A%2F%2Ft.me%2Fsamuramaks-green"/>
 </div>
 <!--
 **Samuramaks/Samuramaks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
