@@ -27,4 +27,4 @@
 ![github contribution grid snake animation](https://raw.githubusercontent.com/Samuramaks/Samuramaks/output/github-snake.svg#gh-light-mode-only)
 
 [<img align="left" alt="If you see this, it means my metrics are not working" src="https://raw.githubusercontent.com/Samuramaks/Samuramaks/main/github-metrics.svg">](https://github.com/Samuramaks/Samuramaks)
-#
+
