@@ -3,7 +3,7 @@
 </div>
 <div id="badges">
   <a href="https://t.me/samuramaks">
-    <img src="https://img.shields.io/badge/Samuramaks-brightgree?logo=Telegram&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Samuramaks-9cf?logo=Telegram&logoColor=white"/>
   </a>
 <!--
 **Samuramaks/Samuramaks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
