@@ -1,15 +1,14 @@
-<div id="header" align="center">
+<div id="header" align="left">
   <img src="https://media.giphy.com/media/WTjXuYA2y4o3UZly3W/giphy.gif" width="100"/>
 </div>
-<div id="badges" align="center">
+<div id="badges" align="left">
   <a href="https://t.me/samuramaks">
     <img src="https://img.shields.io/badge/Samuramaks-9cf?logo=Telegram&logoColor=white"/>
   </a>
 
 
 ### :hammer_and_wrench: Languages and Tools :
-
-<div>
+<div> 
 <img src = "https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-plain.svg" title = "C#" alt="C#" width="40" height="40"/>
 <img src = "https://github.com/devicons/devicon/blob/master/icons/dart/dart-plain-wordmark.svg" title = "Dart" alt="Dart" width="60" height="40"/>
 <img src = "https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title = "Flutter" alt="Flutter" width="40" height="40"/>
