@@ -17,14 +17,8 @@
 <img src = "https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title = "VS Code" alt="VS Code" width="40" height="40"/>
 <img src = "https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title = "Git" alt="Git" width="40" height="40"/>
 </div>
- 
-### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=samuramaks&theme=dark&background=000000)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samuramaks&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ![github contribution grid snake animation](https://raw.githubusercontent.com/Samuramaks/Samuramaks/output/github-snake.svg#gh-dark-mode-only)
 ![github contribution grid snake animation](https://raw.githubusercontent.com/Samuramaks/Samuramaks/output/github-snake.svg#gh-light-mode-only)
 
 [<img align="left" alt="If you see this, it means my metrics are not working" src="https://raw.githubusercontent.com/Samuramaks/Samuramaks/main/github-metrics.svg">](https://github.com/Samuramaks/Samuramaks)
-!--
