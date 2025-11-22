@@ -16,4 +16,3 @@
 <img src = "https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title = "Git" alt="Git" width="40" height="40"/>
 </div>
 
-[<img align="left" alt="If you see this, it means my metrics are not working" src="https://raw.githubusercontent.com/Samuramaks/Samuramaks/main/github-metrics.svg">](https://github.com/Samuramaks/Samuramaks)
